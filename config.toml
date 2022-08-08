@@ -1,0 +1,12 @@
+baseURL = 'https://brandonpow1.github.io/hugo-tailwind-test/'
+languageCode = 'en-us'
+title = 'hugo tailwind test
+disableKinds = ["taxonomy","taxonomyTerm"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+
